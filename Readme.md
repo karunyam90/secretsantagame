@@ -34,7 +34,7 @@ Place last year's Secret Santa assignments in Last_year_employee.csv.
 
 Run the script:
 
-python secretsanta.py
+python secretsantagame.py
 
 The new assignments will be saved in output.csv.
 
@@ -69,4 +69,4 @@ John Doe	john@example.com	Alice	alice@example.com
 Running Unit Tests
 
 To run the unit tests, use:
- python -m unittest secretsanta.py
+ python -m unittest secretsantagame.py
